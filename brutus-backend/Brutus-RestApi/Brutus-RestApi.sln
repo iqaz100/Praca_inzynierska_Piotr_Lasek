@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brutus-RestApi", "Brutus-RestApi\Brutus-RestApi.csproj", "{E5428BD6-660F-43E9-AAD4-0446D8D052CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5428BD6-660F-43E9-AAD4-0446D8D052CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5428BD6-660F-43E9-AAD4-0446D8D052CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5428BD6-660F-43E9-AAD4-0446D8D052CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5428BD6-660F-43E9-AAD4-0446D8D052CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7823B16-122F-462E-9D46-99181BDA3D61}
+	EndGlobalSection
+EndGlobal
